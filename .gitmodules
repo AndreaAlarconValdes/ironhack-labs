@@ -1,3 +1,6 @@
 [submodule "daily-task-manager"]
 	path = daily-task-manager
 	url = https://github.com/AndreaAlarconValdes/daily-task-manager.git
+[submodule "platform-game"]
+	path = platform-game
+	url = https://github.com/AndreaAlarconValdes/platform-game.git

@@ -5,7 +5,10 @@ This repository contains a collection of programming exercises I completed durin
 
 ## 📚 Contents
 
-- **Folder 1:** Practice with advanced JavaScript methods such as `map`, `reduce`, `filter`, and `sort` for array manipulation.  
+- **daily-task-manager:** A simple to-do list application to practice JavaScript, HTML, and CSS.
+- **movies-js-backend-lab:** Practice with advanced JavaScript methods such as `map`, `reduce`, `filter`, and `sort` for array manipulation.  
+- **platform-game:** A platformer video game built using JavaScript, HTML Canvas, and CSS.
+
 
 Each folder contains source code files and sometimes instructions or comments to help understand the exercises.
 
